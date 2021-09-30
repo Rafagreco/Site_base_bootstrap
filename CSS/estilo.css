@@ -1,4 +1,4 @@
-body{
+\body{
     background-color: rgb(120, 22, 211);
 }
 .col{
@@ -6,13 +6,4 @@ body{
 }
 a{
     color: rgb(162, 117, 235);
-}
-.container{
-    margin-top:20px;
-    border-radius: 15px;
-}
-
-.container2{
-
-    background-color: rgb(132, 84, 209);
 }
