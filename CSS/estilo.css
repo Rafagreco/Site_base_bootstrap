@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
 body{
     background-color: rgb(120, 22, 211);
 }
@@ -10,5 +12,8 @@ a{
 .container{
     margin-top: 20px;
     border-radius: 15px;
+}
+h2{
+    font-family: 'Lobster', cursive;
 }
 
