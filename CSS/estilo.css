@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(120, 22, 211);
+    background-color: rgb(22, 211, 47);
 }
 .col{
     background-color: rgb(132, 84, 209);
@@ -7,9 +7,8 @@ body{
 a{
     color:rgb(162, 117, 235)
 }
-
 .container{
-margin-top: 20px;
-border-radius: 15px;
+    margin-top: 20px;
+    border-radius: 15px;
 }
 
